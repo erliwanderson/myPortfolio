@@ -33,7 +33,7 @@ function Hero() {
             <a
               href="#"
               className=" flex items-center gap-2 button text-gray-500 hover:text-gray-900">
-              <HiDownload />
+              <HiDownload  />
               Baixe meu CV
             </a>
           </div>
