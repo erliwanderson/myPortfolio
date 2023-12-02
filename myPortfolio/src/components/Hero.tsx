@@ -2,7 +2,7 @@ import { HiDownload } from "react-icons/hi";
 import img from "../assets/img.jpg";
 function Hero() {
   return (
-    <section className="bg-gradient-to-tr pl-3 from-black to-gray-700 text-white ">
+    <section className="bg-gradient-to-tr pl-3 from-black to-blue-900 text-white ">
       <div className="container mx-auto max-w-5xl p-2 py-6 flex flex-col md:flex-row">
         <div className="basis-1/2">
           <h1 className="mb-6 text-center md:text-left ">
